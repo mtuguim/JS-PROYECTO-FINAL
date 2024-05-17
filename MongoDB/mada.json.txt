@@ -1,0 +1,7 @@
+{
+  "name": "Mada",
+  "lastname": "Madi",
+  "place": "Mallorcs",
+  "image": "public/image-1714747473461.jpg",
+  "__v": 0
+}
